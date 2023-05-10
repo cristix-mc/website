@@ -3,7 +3,7 @@
 # Change "moonrise" to your repository name
 url: "https://cristix-mc.github.io"
 baseurl: "/website"
-siteIcon: https://cdn.discordapp.com/attachments/1105817512353992706/1105981373942071347/server-icon.png
+siteIcon: docs/media/server-icon.png
 siteYear: 2023
 siteFooterlink: /about
 showinSearchEngines: true
