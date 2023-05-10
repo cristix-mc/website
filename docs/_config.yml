@@ -11,16 +11,16 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: Cristix
+serverDescription: Un serveur minecraft
+serverIP: 141.145.192.106:25617
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/xFkqT9MPBb
+discordServerID: 875834774709751839
+discordChannelID: 1080316159339003915
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
